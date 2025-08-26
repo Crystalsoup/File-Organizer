@@ -1,4 +1,4 @@
-# File Organizer (Quick Win Project)
+# File Organizer 
 
 Organize files by **extension** or by **date (YYYY/MM)** with **dry-run** and **undo**.
 
